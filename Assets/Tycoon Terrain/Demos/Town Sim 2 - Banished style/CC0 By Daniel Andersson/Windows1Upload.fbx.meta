@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: 6891cdbae4426e748b1ac99d705d5cb8
+timeCreated: 1479735943
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Lamp
+    100004: Lamp_001
+    100006: Lamp_002
+    100008: Lamp_003
+    100010: //RootNode
+    100012: WindowsDoubleHigh1
+    100014: WindowsDoubleHigh1Boards
+    100016: WindowsDoubleHigh1Frame
+    100018: WindowsDoubleHigh2
+    100020: WindowsDoubleHigh2Frame
+    100022: WindowsDoubleLow1
+    100024: WindowsDoubleLow1Boards
+    100026: WindowsDoubleLow1Frame
+    100028: WindowsHalfRound1
+    100030: WindowsHalfRound1Board
+    100032: WindowsHalfRound1Frame
+    100034: WindowsOutwards1
+    100036: WindowsOutwards1Frame
+    100038: WindowsOutwards2
+    100040: WindowsOutwards2Frame
+    100042: WindowsOutwards3
+    100044: WindowsOutwards3Frame
+    100046: WindowsRound1
+    100048: WindowsRound1Boards
+    100050: WindowsRound1Frame
+    100052: WindowsSingleHigh1
+    100054: WindowsSingleHigh1Boards
+    100056: WindowsSingleHigh1Frame
+    100058: WindowsSingleHigh2
+    100060: WindowsSingleHigh2Frame
+    100062: WindowsSingleLow1
+    100064: WindowsSingleLow1Frame
+    100066: WindowsSingleLowBoards
+    400000: Camera
+    400002: Lamp
+    400004: Lamp_001
+    400006: Lamp_002
+    400008: Lamp_003
+    400010: //RootNode
+    400012: WindowsDoubleHigh1
+    400014: WindowsDoubleHigh1Boards
+    400016: WindowsDoubleHigh1Frame
+    400018: WindowsDoubleHigh2
+    400020: WindowsDoubleHigh2Frame
+    400022: WindowsDoubleLow1
+    400024: WindowsDoubleLow1Boards
+    400026: WindowsDoubleLow1Frame
+    400028: WindowsHalfRound1
+    400030: WindowsHalfRound1Board
+    400032: WindowsHalfRound1Frame
+    400034: WindowsOutwards1
+    400036: WindowsOutwards1Frame
+    400038: WindowsOutwards2
+    400040: WindowsOutwards2Frame
+    400042: WindowsOutwards3
+    400044: WindowsOutwards3Frame
+    400046: WindowsRound1
+    400048: WindowsRound1Boards
+    400050: WindowsRound1Frame
+    400052: WindowsSingleHigh1
+    400054: WindowsSingleHigh1Boards
+    400056: WindowsSingleHigh1Frame
+    400058: WindowsSingleHigh2
+    400060: WindowsSingleHigh2Frame
+    400062: WindowsSingleLow1
+    400064: WindowsSingleLow1Frame
+    400066: WindowsSingleLowBoards
+    2300000: WindowsDoubleHigh1
+    2300002: WindowsDoubleHigh1Boards
+    2300004: WindowsDoubleHigh1Frame
+    2300006: WindowsDoubleHigh2
+    2300008: WindowsDoubleHigh2Frame
+    2300010: WindowsDoubleLow1
+    2300012: WindowsDoubleLow1Boards
+    2300014: WindowsDoubleLow1Frame
+    2300016: WindowsHalfRound1
+    2300018: WindowsHalfRound1Board
+    2300020: WindowsHalfRound1Frame
+    2300022: WindowsOutwards1
+    2300024: WindowsOutwards1Frame
+    2300026: WindowsOutwards2
+    2300028: WindowsOutwards2Frame
+    2300030: WindowsOutwards3
+    2300032: WindowsOutwards3Frame
+    2300034: WindowsRound1
+    2300036: WindowsRound1Boards
+    2300038: WindowsRound1Frame
+    2300040: WindowsSingleHigh1
+    2300042: WindowsSingleHigh1Boards
+    2300044: WindowsSingleHigh1Frame
+    2300046: WindowsSingleHigh2
+    2300048: WindowsSingleHigh2Frame
+    2300050: WindowsSingleLow1
+    2300052: WindowsSingleLow1Frame
+    2300054: WindowsSingleLowBoards
+    3300000: WindowsDoubleHigh1
+    3300002: WindowsDoubleHigh1Boards
+    3300004: WindowsDoubleHigh1Frame
+    3300006: WindowsDoubleHigh2
+    3300008: WindowsDoubleHigh2Frame
+    3300010: WindowsDoubleLow1
+    3300012: WindowsDoubleLow1Boards
+    3300014: WindowsDoubleLow1Frame
+    3300016: WindowsHalfRound1
+    3300018: WindowsHalfRound1Board
+    3300020: WindowsHalfRound1Frame
+    3300022: WindowsOutwards1
+    3300024: WindowsOutwards1Frame
+    3300026: WindowsOutwards2
+    3300028: WindowsOutwards2Frame
+    3300030: WindowsOutwards3
+    3300032: WindowsOutwards3Frame
+    3300034: WindowsRound1
+    3300036: WindowsRound1Boards
+    3300038: WindowsRound1Frame
+    3300040: WindowsSingleHigh1
+    3300042: WindowsSingleHigh1Boards
+    3300044: WindowsSingleHigh1Frame
+    3300046: WindowsSingleHigh2
+    3300048: WindowsSingleHigh2Frame
+    3300050: WindowsSingleLow1
+    3300052: WindowsSingleLow1Frame
+    3300054: WindowsSingleLowBoards
+    4300000: WindowsHalfRound1
+    4300002: WindowsHalfRound1Frame
+    4300004: WindowsHalfRound1Board
+    4300006: WindowsRound1Boards
+    4300008: WindowsRound1
+    4300010: WindowsRound1Frame
+    4300012: WindowsSingleLowBoards
+    4300014: WindowsDoubleLow1Boards
+    4300016: WindowsDoubleHigh1Boards
+    4300018: WindowsSingleHigh1Boards
+    4300020: WindowsSingleHigh2
+    4300022: WindowsDoubleHigh2
+    4300024: WindowsSingleLow1
+    4300026: WindowsDoubleLow1
+    4300028: WindowsDoubleHigh1
+    4300030: WindowsSingleHigh1
+    4300032: WindowsOutwards1
+    4300034: WindowsOutwards2
+    4300036: WindowsOutwards3
+    4300038: WindowsOutwards3Frame
+    4300040: WindowsDoubleHigh1Frame
+    4300042: WindowsDoubleHigh2Frame
+    4300044: WindowsSingleHigh2Frame
+    4300046: WindowsOutwards1Frame
+    4300048: WindowsSingleHigh1Frame
+    4300050: WindowsSingleLow1Frame
+    4300052: WindowsDoubleLow1Frame
+    4300054: WindowsOutwards2Frame
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

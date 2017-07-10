@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: e3ca726e24ec86d4a9275419542a208c
+timeCreated: 1432240020
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ui controls_0
+    21300002: ui controls_1
+    21300004: ui control button
+    21300006: ui controls bomb
+    21300008: ui controls_3
+    21300010: ui controls arrow
+    21300012: ui controls_level
+    21300014: ui controls_none
+    21300016: ui controls_2
+    21300018: ui controls building
+    21300020: ui controls_4
+    21300022: ui controls_5
+    21300024: ui controls_6
+    21300026: ui controls_turn counter clockwise
+    21300028: ui controls_turn clockwise
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ui controls_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 237
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui controls_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 237
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui control button
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 186
+        width: 190
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 10, y: 10, z: 10, w: 10}
+    - name: ui controls bomb
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 128
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui controls_3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 131
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui controls arrow
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 130
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui controls_level
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 129
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui controls_none
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 65
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui controls_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 49
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 4, w: 0}
+    - name: ui controls building
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui controls_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 203
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui controls_5
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 131
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui controls_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui controls_turn counter clockwise
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui controls_turn clockwise
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

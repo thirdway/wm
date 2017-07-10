@@ -1,0 +1,10 @@
+The contents of this folder are all CC0
+Materials and textures have been edited to fit Unity PBR workflow.
+
+For more assets from the same author go to:
+http://opengameart.org/content/daniel-anderssons-medieval-themed-models
+
+Or check his blender swap profile at:
+http://www.blendswap.com/user/Daniel74
+or
+http://www.blendswap.com/blends/view/75282
